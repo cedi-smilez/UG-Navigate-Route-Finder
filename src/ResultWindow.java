@@ -75,8 +75,8 @@ public class ResultWindow extends JFrame {
         resultArea.setText(buildResultText(start, end, landmark, nearbyLandmarks, algorithmUsed, timeComplexity, route));
 
         gbc.gridx = 0;
-        gbc.gridy = 0;
-        panel.add(new JLabel(new ImageIcon("resources/images/route.png")), gbc); // Placeholder image
+//        gbc.gridy = 0;
+//        panel.add(new JLabel(new ImageIcon("resources/images/finish-flag.png")), gbc); // Placeholder image
         gbc.gridy = 1;
         panel.add(new JScrollPane(resultArea), gbc);
 
