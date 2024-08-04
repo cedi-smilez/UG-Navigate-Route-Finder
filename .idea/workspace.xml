@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8fcc981-0df1-47f4-a2a2-f4652a49bbd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UGNavigate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResultWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RouteFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/AuthUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RouteFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RouteFinder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +38,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -76,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722785181486</updated>
-      <workItem from="1722785182573" duration="4983000" />
+      <workItem from="1722785182573" duration="5642000" />
     </task>
     <servers />
   </component>
@@ -88,8 +77,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/RouteFinder.java</url>
-          <line>238</line>
-          <properties class="RouteFinder" method="buildResultText">
+          <line>210</line>
+          <properties class="RouteFinder" method="showUsageManual">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
