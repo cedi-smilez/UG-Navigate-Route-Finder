@@ -23,7 +23,7 @@ UG Navigate is a desktop application for navigating the University of Ghana camp
 
 1. **Clone the Repository**:
    ```sh
-   git clone [https://github.com/your-repo/ug-navigate.git](https://github.com/bundana/UG-Navigate-Route-Finder/)
+   git clone https://github.com/bundana/UG-Navigate-Route-Finder/
    ```
 
 2. **Compile the Code**:
@@ -143,4 +143,4 @@ UG Navigate is a desktop application for navigating the University of Ghana camp
 
 ### License
 
-This project is licensed under the MIT License - see the [[LICENSE](LICENSE)](https://opensource.org/license/mit) file for details.
+This project is licensed under the MIT License - see https://opensource.org/license/mit for details.
