@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8fcc981-0df1-47f4-a2a2-f4652a49bbd2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/MapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RouteFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RouteFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722785181486</updated>
-      <workItem from="1722785182573" duration="5642000" />
+      <workItem from="1722785182573" duration="6180000" />
     </task>
     <servers />
   </component>
@@ -77,12 +76,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/RouteFinder.java</url>
-          <line>210</line>
-          <properties class="RouteFinder" method="showUsageManual">
+          <line>238</line>
+          <properties class="RouteFinder" method="buildResultText">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ResultWindow.java</url>
+          <line>51</line>
+          <properties class="ResultWindow" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
