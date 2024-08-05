@@ -9,15 +9,18 @@ import utils.AuthUtils;
     | Login Class
     |--------------------------------------------------------------------------
     |
-    | The Login class provides a graphical user interface (GUI) for users to log in
+    | So, the Login class provides a graphical user interface (GUI) for users to log in
     | to the UG Navigate application. It includes fields for entering a student ID and
     | password, and a button to submit the login credentials. On successful login,
     | it transitions to the RouteFinder interface.
     |
+    |
     | Constructor:
     | - Login():
-    |   Initializes the login window with fields for student ID and password, and a
+    |  This Initializes the login window with fields for student ID and password, and a
     |   login button. Customizes the appearance of components and sets up the layout.
+    |
+    |
     |
     | Components:
     | - `studentIdField`: Text field for entering the student ID.
