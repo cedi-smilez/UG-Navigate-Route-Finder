@@ -2,6 +2,8 @@
 
 #### Overview
 
+
+
 UG Navigate is a desktop application for navigating the University of Ghana campus. It helps users find optimal routes between various locations and landmarks, offering features to calculate distances and generate routes using different algorithms.
 
 ---
